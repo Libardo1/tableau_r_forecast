@@ -18,3 +18,4 @@ accuracy(fcast)
 # Plot fitted model
 plot(forecast(time))
 lines(fitted(fcast),col="blue")
+
